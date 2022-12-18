@@ -20,4 +20,3 @@ console.log(true > false); //true приводиться до 1, а false до 0
 console.log(true > 5); //true приводиться до 1, а 1 < 5, тому результат false
 console.log(true < '5'); //true приводиться до 1, а рядок '5' до числа 5, тому результат true
 console.log(true > null); //true приводиться до 1, а null до 0, тому результат true
-
